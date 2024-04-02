@@ -1,5 +1,5 @@
 ### Hi there 👋
-![snek](https://github.com/Vortigern-The-Grey/Vortigern-The-Grey/blob/output/github-contribution-grid-snake.svg)
+![snek](dist/github-contribution-grid-snake.svg)
 <!--
 **Vortigern-The-Grey/Vortigern-The-Grey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
