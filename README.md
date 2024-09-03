@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vortigern-The-Grey&theme=catppuccin-mocha)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on a conversion of [gitfire](url) to python: [gitfire-py](github.com/Vortigern-The-Grey/gitfire-py)  
 - 🌱 I’m currently learning how to better configure [NVChad](nvchad.com)  
 - 👯 I’m looking to collaborate on funny little cli programs (I only know python)
