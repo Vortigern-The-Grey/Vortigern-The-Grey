@@ -10,5 +10,5 @@
 - 📫 How to reach me: If it's about my projects, open an issue! Otherwise, I hang out in the NVChad discord.
 - 🧠 ASD + ADHD = nyoom
 - 😄 Pronouns: He/Him
-- 🧙 Age: 15
+- 🧙 Age: 16
 - ⚡ Fun fact: I spend more time making my software use [catppuccin](catppuccin.com) than using my software.
